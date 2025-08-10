@@ -1,0 +1,1384 @@
+[Roach, Aggro Abyss] : [Roach, Aggro Abyss]
+deck 1: 0.5 0.4
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Roach, Aggro Abyss] : [Roach, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.6 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Roach, Aggro Abyss] : [Roach, Rune]
+deck 1: 0.5 0.7
+deck 2: 0.6 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Roach, Aggro Abyss] : [Roach, Sword]
+deck 1: 0.5 0.55
+deck 2: 0.6 0.4
+deck 1 pick% 0.80 : 0.60
+p1 win: 0.52
+
+[Roach, Aggro Abyss] : [Roach, Haven]
+deck 1: 0.5 0.2
+deck 2: 0.6 0.4
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.40
+
+[Roach, Aggro Abyss] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.6
+deck 2: 0.5 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Roach, Aggro Abyss] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.7
+deck 2: 0.5 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Roach, Aggro Abyss] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.55
+deck 2: 0.5 0.4
+deck 1 pick% 0.40 : 0.60
+p1 win: 0.46
+
+[Roach, Aggro Abyss] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.2
+deck 2: 0.5 0.4
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.40
+
+[Roach, Aggro Abyss] : [Mid Abyss, Rune]
+deck 1: 0.6 0.7
+deck 2: 0.6 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Roach, Aggro Abyss] : [Mid Abyss, Sword]
+deck 1: 0.6 0.55
+deck 2: 0.6 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Aggro Abyss] : [Mid Abyss, Haven]
+deck 1: 0.6 0.2
+deck 2: 0.6 0.4
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.40
+
+[Roach, Aggro Abyss] : [Rune, Sword]
+deck 1: 0.7 0.55
+deck 2: 0.6 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Aggro Abyss] : [Rune, Haven]
+deck 1: 0.7 0.2
+deck 2: 0.6 0.4
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Roach, Aggro Abyss] : [Sword, Haven]
+deck 1: 0.55 0.2
+deck 2: 0.4 0.4
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Roach, Mid Abyss] : [Roach, Aggro Abyss]
+deck 1: 0.5 0.4
+deck 2: 0.4 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.40
+
+[Roach, Mid Abyss] : [Roach, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Mid Abyss] : [Roach, Rune]
+deck 1: 0.5 0.7
+deck 2: 0.4 0.55
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Mid Abyss] : [Roach, Sword]
+deck 1: 0.5 0.55
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Mid Abyss] : [Roach, Haven]
+deck 1: 0.5 0.2
+deck 2: 0.4 0.7
+deck 1 pick% 0.50 : 0.83
+p1 win: 0.45
+
+[Roach, Mid Abyss] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Roach, Mid Abyss] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.7
+deck 2: 0.4 0.55
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Roach, Mid Abyss] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.55
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Roach, Mid Abyss] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.2
+deck 2: 0.4 0.7
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Roach, Mid Abyss] : [Mid Abyss, Rune]
+deck 1: 0.6 0.7
+deck 2: 0.5 0.55
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Roach, Mid Abyss] : [Mid Abyss, Sword]
+deck 1: 0.6 0.55
+deck 2: 0.5 0.5
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Mid Abyss] : [Mid Abyss, Haven]
+deck 1: 0.6 0.2
+deck 2: 0.5 0.7
+deck 1 pick% 0.33 : 0.83
+p1 win: 0.53
+
+[Roach, Mid Abyss] : [Rune, Sword]
+deck 1: 0.7 0.55
+deck 2: 0.55 0.5
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Mid Abyss] : [Rune, Haven]
+deck 1: 0.7 0.2
+deck 2: 0.55 0.7
+deck 1 pick% 0.23 : 0.77
+p1 win: 0.58
+
+[Roach, Mid Abyss] : [Sword, Haven]
+deck 1: 0.55 0.2
+deck 2: 0.5 0.7
+deck 1 pick% 0.36 : 0.91
+p1 win: 0.52
+
+[Roach, Rune] : [Roach, Aggro Abyss]
+deck 1: 0.5 0.4
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.40
+
+[Roach, Rune] : [Roach, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.3 0.45
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Rune] : [Roach, Rune]
+deck 1: 0.5 0.7
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Rune] : [Roach, Sword]
+deck 1: 0.5 0.55
+deck 2: 0.3 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Rune] : [Roach, Haven]
+deck 1: 0.5 0.2
+deck 2: 0.3 0.7
+deck 1 pick% 0.57 : 0.71
+p1 win: 0.41
+
+[Roach, Rune] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.6
+deck 2: 0.4 0.45
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Roach, Rune] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.7
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Roach, Rune] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.55
+deck 2: 0.4 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Roach, Rune] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.2
+deck 2: 0.4 0.7
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Roach, Rune] : [Mid Abyss, Rune]
+deck 1: 0.6 0.7
+deck 2: 0.45 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Roach, Rune] : [Mid Abyss, Sword]
+deck 1: 0.6 0.55
+deck 2: 0.45 0.6
+deck 1 pick% 0.75 : 0.25
+p1 win: 0.56
+
+[Roach, Rune] : [Mid Abyss, Haven]
+deck 1: 0.6 0.2
+deck 2: 0.45 0.7
+deck 1 pick% 0.38 : 0.77
+p1 win: 0.51
+
+[Roach, Rune] : [Rune, Sword]
+deck 1: 0.7 0.55
+deck 2: 0.5 0.6
+deck 1 pick% 0.40 : 0.20
+p1 win: 0.58
+
+[Roach, Rune] : [Rune, Haven]
+deck 1: 0.7 0.2
+deck 2: 0.5 0.7
+deck 1 pick% 0.29 : 0.71
+p1 win: 0.56
+
+[Roach, Rune] : [Sword, Haven]
+deck 1: 0.55 0.2
+deck 2: 0.6 0.7
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Roach, Sword] : [Roach, Aggro Abyss]
+deck 1: 0.5 0.4
+deck 2: 0.45 0.6
+deck 1 pick% 0.60 : 0.80
+p1 win: 0.48
+
+[Roach, Sword] : [Roach, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.45 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Sword] : [Roach, Rune]
+deck 1: 0.5 0.7
+deck 2: 0.45 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Sword] : [Roach, Sword]
+deck 1: 0.5 0.55
+deck 2: 0.45 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Roach, Sword] : [Roach, Haven]
+deck 1: 0.5 0.2
+deck 2: 0.45 0.6
+deck 1 pick% 0.33 : 0.89
+p1 win: 0.47
+
+[Roach, Sword] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.6
+deck 2: 0.6 0.5
+deck 1 pick% 0.33 : 0.33
+p1 win: 0.53
+
+[Roach, Sword] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.7
+deck 2: 0.6 0.4
+deck 1 pick% 0.40 : 0.60
+p1 win: 0.52
+
+[Roach, Sword] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.55
+deck 2: 0.6 0.5
+deck 1 pick% 0.40 : 0.20
+p1 win: 0.52
+
+[Roach, Sword] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.2
+deck 2: 0.6 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Roach, Sword] : [Mid Abyss, Rune]
+deck 1: 0.6 0.7
+deck 2: 0.5 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Roach, Sword] : [Mid Abyss, Sword]
+deck 1: 0.6 0.55
+deck 2: 0.5 0.5
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Sword] : [Mid Abyss, Haven]
+deck 1: 0.6 0.2
+deck 2: 0.5 0.6
+deck 1 pick% 0.20 : 0.80
+p1 win: 0.52
+
+[Roach, Sword] : [Rune, Sword]
+deck 1: 0.7 0.55
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Sword] : [Rune, Haven]
+deck 1: 0.7 0.2
+deck 2: 0.4 0.6
+deck 1 pick% 0.29 : 0.57
+p1 win: 0.49
+
+[Roach, Sword] : [Sword, Haven]
+deck 1: 0.55 0.2
+deck 2: 0.5 0.6
+deck 1 pick% 0.22 : 0.89
+p1 win: 0.51
+
+[Roach, Haven] : [Roach, Aggro Abyss]
+deck 1: 0.5 0.4
+deck 2: 0.8 0.6
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.60
+
+[Roach, Haven] : [Roach, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.8 0.3
+deck 1 pick% 0.83 : 0.50
+p1 win: 0.55
+
+[Roach, Haven] : [Roach, Rune]
+deck 1: 0.5 0.7
+deck 2: 0.8 0.3
+deck 1 pick% 0.71 : 0.57
+p1 win: 0.59
+
+[Roach, Haven] : [Roach, Sword]
+deck 1: 0.5 0.55
+deck 2: 0.8 0.4
+deck 1 pick% 0.89 : 0.33
+p1 win: 0.53
+
+[Roach, Haven] : [Roach, Haven]
+deck 1: 0.5 0.2
+deck 2: 0.8 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Roach, Haven] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.6
+deck 2: 0.6 0.3
+deck 1 pick% 0.60 : 0.60
+p1 win: 0.48
+
+[Roach, Haven] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.7
+deck 2: 0.6 0.3
+deck 1 pick% 0.50 : 0.67
+p1 win: 0.50
+
+[Roach, Haven] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.55
+deck 2: 0.6 0.4
+deck 1 pick% 0.57 : 0.43
+p1 win: 0.49
+
+[Roach, Haven] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.2
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Roach, Haven] : [Mid Abyss, Rune]
+deck 1: 0.6 0.7
+deck 2: 0.3 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Roach, Haven] : [Mid Abyss, Sword]
+deck 1: 0.6 0.55
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Haven] : [Mid Abyss, Haven]
+deck 1: 0.6 0.2
+deck 2: 0.3 0.5
+deck 1 pick% 0.33 : 0.50
+p1 win: 0.40
+
+[Roach, Haven] : [Rune, Sword]
+deck 1: 0.7 0.55
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.55
+
+[Roach, Haven] : [Rune, Haven]
+deck 1: 0.7 0.2
+deck 2: 0.3 0.5
+deck 1 pick% 0.29 : 0.43
+p1 win: 0.41
+
+[Roach, Haven] : [Sword, Haven]
+deck 1: 0.55 0.2
+deck 2: 0.4 0.5
+deck 1 pick% 0.22 : 0.67
+p1 win: 0.43
+
+[Aggro Abyss, Mid Abyss] : [Roach, Aggro Abyss]
+deck 1: 0.6 0.5
+deck 2: 0.4 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.50
+
+[Aggro Abyss, Mid Abyss] : [Roach, Mid Abyss]
+deck 1: 0.6 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Mid Abyss] : [Roach, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.4 0.55
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Mid Abyss] : [Roach, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.4 0.5
+deck 1 pick% 0.33 : 0.33
+p1 win: 0.47
+
+[Aggro Abyss, Mid Abyss] : [Roach, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.4 0.7
+deck 1 pick% 0.60 : 0.60
+p1 win: 0.52
+
+[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Rune]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.55
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Sword]
+deck 1: 0.5 0.4
+deck 2: 0.4 0.5
+deck 1 pick% 0.50 : 0.50
+p1 win: 0.45
+
+[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Haven]
+deck 1: 0.5 0.4
+deck 2: 0.4 0.7
+deck 1 pick% 0.75 : 0.75
+p1 win: 0.47
+
+[Aggro Abyss, Mid Abyss] : [Mid Abyss, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.5 0.55
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Mid Abyss] : [Mid Abyss, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.5 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Mid Abyss] : [Mid Abyss, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.5 0.7
+deck 1 pick% 0.50 : 0.75
+p1 win: 0.55
+
+[Aggro Abyss, Mid Abyss] : [Rune, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.55 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Mid Abyss] : [Rune, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.55 0.7
+deck 1 pick% 0.43 : 0.86
+p1 win: 0.57
+
+[Aggro Abyss, Mid Abyss] : [Sword, Haven]
+deck 1: 0.4 0.4
+deck 2: 0.5 0.7
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Rune] : [Roach, Aggro Abyss]
+deck 1: 0.6 0.5
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.50
+
+[Aggro Abyss, Rune] : [Roach, Mid Abyss]
+deck 1: 0.6 0.6
+deck 2: 0.3 0.45
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Rune] : [Roach, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Rune] : [Roach, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.3 0.6
+deck 1 pick% 0.60 : 0.40
+p1 win: 0.48
+
+[Aggro Abyss, Rune] : [Roach, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.3 0.7
+deck 1 pick% 0.67 : 0.50
+p1 win: 0.50
+
+[Aggro Abyss, Rune] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.45
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Rune] : [Aggro Abyss, Rune]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Rune] : [Aggro Abyss, Sword]
+deck 1: 0.5 0.4
+deck 2: 0.4 0.6
+deck 1 pick% 0.67 : 0.67
+p1 win: 0.47
+
+[Aggro Abyss, Rune] : [Aggro Abyss, Haven]
+deck 1: 0.5 0.4
+deck 2: 0.4 0.7
+deck 1 pick% 0.75 : 0.75
+p1 win: 0.47
+
+[Aggro Abyss, Rune] : [Mid Abyss, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.45 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Rune] : [Mid Abyss, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.45 0.6
+deck 1 pick% 0.43 : 0.57
+p1 win: 0.51
+
+[Aggro Abyss, Rune] : [Mid Abyss, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.45 0.7
+deck 1 pick% 0.56 : 0.67
+p1 win: 0.53
+
+[Aggro Abyss, Rune] : [Rune, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.5 0.6
+deck 1 pick% 0.33 : 0.67
+p1 win: 0.53
+
+[Aggro Abyss, Rune] : [Rune, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.5 0.7
+deck 1 pick% 0.50 : 0.75
+p1 win: 0.55
+
+[Aggro Abyss, Rune] : [Sword, Haven]
+deck 1: 0.4 0.4
+deck 2: 0.6 0.7
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Sword] : [Roach, Aggro Abyss]
+deck 1: 0.6 0.5
+deck 2: 0.45 0.6
+deck 1 pick% 0.60 : 0.40
+p1 win: 0.54
+
+[Aggro Abyss, Sword] : [Roach, Mid Abyss]
+deck 1: 0.6 0.6
+deck 2: 0.45 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Sword] : [Roach, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.45 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Sword] : [Roach, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.45 0.5
+deck 1 pick% 0.20 : 0.40
+p1 win: 0.48
+
+[Aggro Abyss, Sword] : [Roach, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.45 0.6
+deck 1 pick% 0.43 : 0.57
+p1 win: 0.51
+
+[Aggro Abyss, Sword] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.6 0.5
+deck 1 pick% 0.50 : 0.50
+p1 win: 0.55
+
+[Aggro Abyss, Sword] : [Aggro Abyss, Rune]
+deck 1: 0.5 0.6
+deck 2: 0.6 0.4
+deck 1 pick% 0.67 : 0.67
+p1 win: 0.53
+
+[Aggro Abyss, Sword] : [Aggro Abyss, Sword]
+deck 1: 0.5 0.4
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Aggro Abyss, Sword] : [Aggro Abyss, Haven]
+deck 1: 0.5 0.4
+deck 2: 0.6 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Sword] : [Mid Abyss, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.5 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Sword] : [Mid Abyss, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.5 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Sword] : [Mid Abyss, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.5 0.6
+deck 1 pick% 0.33 : 0.67
+p1 win: 0.53
+
+[Aggro Abyss, Sword] : [Rune, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.4 0.5
+deck 1 pick% 0.33 : 0.33
+p1 win: 0.47
+
+[Aggro Abyss, Sword] : [Rune, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.4 0.6
+deck 1 pick% 0.50 : 0.50
+p1 win: 0.50
+
+[Aggro Abyss, Sword] : [Sword, Haven]
+deck 1: 0.4 0.4
+deck 2: 0.5 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Aggro Abyss, Haven] : [Roach, Aggro Abyss]
+deck 1: 0.6 0.5
+deck 2: 0.8 0.6
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.60
+
+[Aggro Abyss, Haven] : [Roach, Mid Abyss]
+deck 1: 0.6 0.6
+deck 2: 0.8 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Haven] : [Roach, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.8 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Haven] : [Roach, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.8 0.4
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.40
+
+[Aggro Abyss, Haven] : [Roach, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.8 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Aggro Abyss, Haven] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.5 0.6
+deck 2: 0.6 0.3
+deck 1 pick% 0.75 : 0.75
+p1 win: 0.53
+
+[Aggro Abyss, Haven] : [Aggro Abyss, Rune]
+deck 1: 0.5 0.6
+deck 2: 0.6 0.3
+deck 1 pick% 0.75 : 0.75
+p1 win: 0.53
+
+[Aggro Abyss, Haven] : [Aggro Abyss, Sword]
+deck 1: 0.5 0.4
+deck 2: 0.6 0.4
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.40
+
+[Aggro Abyss, Haven] : [Aggro Abyss, Haven]
+deck 1: 0.5 0.4
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Aggro Abyss, Haven] : [Mid Abyss, Rune]
+deck 1: 0.6 0.6
+deck 2: 0.3 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Aggro Abyss, Haven] : [Mid Abyss, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.40
+
+[Aggro Abyss, Haven] : [Mid Abyss, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.3 0.5
+deck 1 pick% 0.50 : 0.25
+p1 win: 0.45
+
+[Aggro Abyss, Haven] : [Rune, Sword]
+deck 1: 0.6 0.4
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.40
+
+[Aggro Abyss, Haven] : [Rune, Haven]
+deck 1: 0.6 0.4
+deck 2: 0.3 0.5
+deck 1 pick% 0.50 : 0.25
+p1 win: 0.45
+
+[Aggro Abyss, Haven] : [Sword, Haven]
+deck 1: 0.4 0.4
+deck 2: 0.4 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Roach, Aggro Abyss]
+deck 1: 0.4 0.4
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Roach, Mid Abyss]
+deck 1: 0.4 0.5
+deck 2: 0.3 0.45
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Roach, Rune]
+deck 1: 0.4 0.55
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Roach, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.3 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Roach, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.3 0.7
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.5
+deck 2: 0.4 0.45
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.55
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.4 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.4 0.7
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Mid Abyss, Rune] : [Mid Abyss, Rune]
+deck 1: 0.5 0.55
+deck 2: 0.45 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Rune] : [Mid Abyss, Sword]
+deck 1: 0.5 0.5
+deck 2: 0.45 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Rune] : [Mid Abyss, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.45 0.7
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Rune] : [Rune, Sword]
+deck 1: 0.55 0.5
+deck 2: 0.5 0.6
+deck 1 pick% 0.67 : 0.67
+p1 win: 0.53
+
+[Mid Abyss, Rune] : [Rune, Haven]
+deck 1: 0.55 0.7
+deck 2: 0.5 0.7
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.55
+
+[Mid Abyss, Rune] : [Sword, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.6 0.7
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Mid Abyss, Sword] : [Roach, Aggro Abyss]
+deck 1: 0.4 0.4
+deck 2: 0.45 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Mid Abyss, Sword] : [Roach, Mid Abyss]
+deck 1: 0.4 0.5
+deck 2: 0.45 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Mid Abyss, Sword] : [Roach, Rune]
+deck 1: 0.4 0.55
+deck 2: 0.45 0.4
+deck 1 pick% 0.25 : 0.75
+p1 win: 0.44
+
+[Mid Abyss, Sword] : [Roach, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.45 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Mid Abyss, Sword] : [Roach, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.45 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Mid Abyss, Sword] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.5
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Mid Abyss, Sword] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.55
+deck 2: 0.6 0.4
+deck 1 pick% 0.57 : 0.43
+p1 win: 0.49
+
+[Mid Abyss, Sword] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Mid Abyss, Sword] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.6 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Mid Abyss, Sword] : [Mid Abyss, Rune]
+deck 1: 0.5 0.55
+deck 2: 0.5 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Sword] : [Mid Abyss, Sword]
+deck 1: 0.5 0.5
+deck 2: 0.5 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Sword] : [Mid Abyss, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.5 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Sword] : [Rune, Sword]
+deck 1: 0.55 0.5
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.50
+
+[Mid Abyss, Sword] : [Rune, Haven]
+deck 1: 0.55 0.7
+deck 2: 0.4 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.55
+
+[Mid Abyss, Sword] : [Sword, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.5 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Haven] : [Roach, Aggro Abyss]
+deck 1: 0.4 0.4
+deck 2: 0.8 0.6
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.60
+
+[Mid Abyss, Haven] : [Roach, Mid Abyss]
+deck 1: 0.4 0.5
+deck 2: 0.8 0.3
+deck 1 pick% 0.83 : 0.33
+p1 win: 0.47
+
+[Mid Abyss, Haven] : [Roach, Rune]
+deck 1: 0.4 0.55
+deck 2: 0.8 0.3
+deck 1 pick% 0.77 : 0.38
+p1 win: 0.49
+
+[Mid Abyss, Haven] : [Roach, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.8 0.4
+deck 1 pick% 0.80 : 0.20
+p1 win: 0.48
+
+[Mid Abyss, Haven] : [Roach, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.8 0.5
+deck 1 pick% 0.50 : 0.33
+p1 win: 0.60
+
+[Mid Abyss, Haven] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.5
+deck 2: 0.6 0.3
+deck 1 pick% 0.75 : 0.50
+p1 win: 0.45
+
+[Mid Abyss, Haven] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.55
+deck 2: 0.6 0.3
+deck 1 pick% 0.67 : 0.56
+p1 win: 0.47
+
+[Mid Abyss, Haven] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.6 0.4
+deck 1 pick% 0.67 : 0.33
+p1 win: 0.47
+
+[Mid Abyss, Haven] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.6 0.5
+deck 1 pick% 0.25 : 0.50
+p1 win: 0.55
+
+[Mid Abyss, Haven] : [Mid Abyss, Rune]
+deck 1: 0.5 0.55
+deck 2: 0.3 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Haven] : [Mid Abyss, Sword]
+deck 1: 0.5 0.5
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Haven] : [Mid Abyss, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Mid Abyss, Haven] : [Rune, Sword]
+deck 1: 0.55 0.5
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.50
+
+[Mid Abyss, Haven] : [Rune, Haven]
+deck 1: 0.55 0.7
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.55
+
+[Mid Abyss, Haven] : [Sword, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Rune, Sword] : [Roach, Aggro Abyss]
+deck 1: 0.3 0.4
+deck 2: 0.45 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Rune, Sword] : [Roach, Mid Abyss]
+deck 1: 0.3 0.45
+deck 2: 0.45 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Rune, Sword] : [Roach, Rune]
+deck 1: 0.3 0.5
+deck 2: 0.45 0.4
+deck 1 pick% 0.20 : 0.40
+p1 win: 0.42
+
+[Rune, Sword] : [Roach, Sword]
+deck 1: 0.3 0.6
+deck 2: 0.45 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Rune, Sword] : [Roach, Haven]
+deck 1: 0.3 0.7
+deck 2: 0.45 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.45
+
+[Rune, Sword] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.45
+deck 2: 0.6 0.5
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.50
+
+[Rune, Sword] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.5
+deck 2: 0.6 0.4
+deck 1 pick% 0.67 : 0.33
+p1 win: 0.47
+
+[Rune, Sword] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.6
+deck 2: 0.6 0.5
+deck 1 pick% 0.33 : 0.33
+p1 win: 0.53
+
+[Rune, Sword] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.6 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.60
+
+[Rune, Sword] : [Mid Abyss, Rune]
+deck 1: 0.45 0.5
+deck 2: 0.5 0.4
+deck 1 pick% 0.67 : 0.67
+p1 win: 0.47
+
+[Rune, Sword] : [Mid Abyss, Sword]
+deck 1: 0.45 0.6
+deck 2: 0.5 0.5
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Rune, Sword] : [Mid Abyss, Haven]
+deck 1: 0.45 0.7
+deck 2: 0.5 0.6
+deck 1 pick% 0.00 : 0.00
+p1 win: 0.50
+
+[Rune, Sword] : [Rune, Sword]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Rune, Sword] : [Rune, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.4 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Rune, Sword] : [Sword, Haven]
+deck 1: 0.6 0.7
+deck 2: 0.5 0.6
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Rune, Haven] : [Roach, Aggro Abyss]
+deck 1: 0.3 0.4
+deck 2: 0.8 0.6
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.60
+
+[Rune, Haven] : [Roach, Mid Abyss]
+deck 1: 0.3 0.45
+deck 2: 0.8 0.3
+deck 1 pick% 0.77 : 0.23
+p1 win: 0.42
+
+[Rune, Haven] : [Roach, Rune]
+deck 1: 0.3 0.5
+deck 2: 0.8 0.3
+deck 1 pick% 0.71 : 0.29
+p1 win: 0.44
+
+[Rune, Haven] : [Roach, Sword]
+deck 1: 0.3 0.6
+deck 2: 0.8 0.4
+deck 1 pick% 0.57 : 0.29
+p1 win: 0.51
+
+[Rune, Haven] : [Roach, Haven]
+deck 1: 0.3 0.7
+deck 2: 0.8 0.5
+deck 1 pick% 0.43 : 0.29
+p1 win: 0.59
+
+[Rune, Haven] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.4 0.45
+deck 2: 0.6 0.3
+deck 1 pick% 0.86 : 0.43
+p1 win: 0.43
+
+[Rune, Haven] : [Aggro Abyss, Rune]
+deck 1: 0.4 0.5
+deck 2: 0.6 0.3
+deck 1 pick% 0.75 : 0.50
+p1 win: 0.45
+
+[Rune, Haven] : [Aggro Abyss, Sword]
+deck 1: 0.4 0.6
+deck 2: 0.6 0.4
+deck 1 pick% 0.50 : 0.50
+p1 win: 0.50
+
+[Rune, Haven] : [Aggro Abyss, Haven]
+deck 1: 0.4 0.7
+deck 2: 0.6 0.5
+deck 1 pick% 0.25 : 0.50
+p1 win: 0.55
+
+[Rune, Haven] : [Mid Abyss, Rune]
+deck 1: 0.45 0.5
+deck 2: 0.3 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.45
+
+[Rune, Haven] : [Mid Abyss, Sword]
+deck 1: 0.45 0.6
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.45
+
+[Rune, Haven] : [Mid Abyss, Haven]
+deck 1: 0.45 0.7
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.45
+
+[Rune, Haven] : [Rune, Sword]
+deck 1: 0.5 0.6
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Rune, Haven] : [Rune, Haven]
+deck 1: 0.5 0.7
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Rune, Haven] : [Sword, Haven]
+deck 1: 0.6 0.7
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Sword, Haven] : [Roach, Aggro Abyss]
+deck 1: 0.45 0.6
+deck 2: 0.8 0.6
+deck 1 pick% 0.00 : 1.00
+p1 win: 0.60
+
+[Sword, Haven] : [Roach, Mid Abyss]
+deck 1: 0.45 0.5
+deck 2: 0.8 0.3
+deck 1 pick% 0.91 : 0.36
+p1 win: 0.48
+
+[Sword, Haven] : [Roach, Rune]
+deck 1: 0.45 0.4
+deck 2: 0.8 0.3
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Sword, Haven] : [Roach, Sword]
+deck 1: 0.45 0.5
+deck 2: 0.8 0.4
+deck 1 pick% 0.89 : 0.22
+p1 win: 0.49
+
+[Sword, Haven] : [Roach, Haven]
+deck 1: 0.45 0.6
+deck 2: 0.8 0.5
+deck 1 pick% 0.67 : 0.22
+p1 win: 0.57
+
+[Sword, Haven] : [Aggro Abyss, Mid Abyss]
+deck 1: 0.6 0.5
+deck 2: 0.6 0.3
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.50
+
+[Sword, Haven] : [Aggro Abyss, Rune]
+deck 1: 0.6 0.4
+deck 2: 0.6 0.3
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.40
+
+[Sword, Haven] : [Aggro Abyss, Sword]
+deck 1: 0.6 0.5
+deck 2: 0.6 0.4
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.50
+
+[Sword, Haven] : [Aggro Abyss, Haven]
+deck 1: 0.6 0.6
+deck 2: 0.6 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.60
+
+[Sword, Haven] : [Mid Abyss, Rune]
+deck 1: 0.5 0.4
+deck 2: 0.3 0.3
+deck 1 pick% 1.00 : 1.00
+p1 win: 0.40
+
+[Sword, Haven] : [Mid Abyss, Sword]
+deck 1: 0.5 0.5
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Sword, Haven] : [Mid Abyss, Haven]
+deck 1: 0.5 0.6
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+[Sword, Haven] : [Rune, Sword]
+deck 1: 0.4 0.5
+deck 2: 0.3 0.4
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Sword, Haven] : [Rune, Haven]
+deck 1: 0.4 0.6
+deck 2: 0.3 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.40
+
+[Sword, Haven] : [Sword, Haven]
+deck 1: 0.5 0.6
+deck 2: 0.4 0.5
+deck 1 pick% 1.00 : 0.00
+p1 win: 0.50
+
+=== Open Decklist (internal 2x2 Nash picks) ===
+Equilibrium expected winrate (first-player): 0.5000
+
+Lineup distribution (probabilities):
+  Roach + Mid Abyss : 0.0025
+  Roach + Sword : 0.5751
+  Roach + Haven : 0.0137
+  Aggro Abyss + Rune : 0.1836
+  Rune + Haven : 0.2251
+
+Per-deck fraction of players bringing each deck (sum to 1 across decks):
+  Roach           : 0.2956
+  Aggro Abyss     : 0.0918
+  Mid Abyss       : 0.0012
+  Rune            : 0.2044
+  Sword           : 0.2876
+  Haven           : 0.1194
+
+
+=== Closed Decklist (internal uniform 50/50) ===
+Equilibrium expected winrate (first-player): 0.5000
+
+Lineup distribution (probabilities):
+  Roach + Sword : 0.2727
+  Roach + Haven : 0.2727
+  Mid Abyss + Sword : 0.4545
+
+Per-deck fraction of players bringing each deck (sum to 1 across decks):
+  Roach           : 0.2727
+  Aggro Abyss     : 0.0000
+  Mid Abyss       : 0.2273
+  Rune            : 0.0000
+  Sword           : 0.3636
+  Haven           : 0.1364
