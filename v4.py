@@ -17,38 +17,67 @@ def load_P_csv(path):
 
 def solve_2x2_zero_sum(a, b, c, d, eps=1e-12):
     """
-    Solve 2x2 zero-sum game with payoff matrix for row player:
-       [[a, b],
-        [c, d]]
-    Returns (x, y, value) where:
-      x = prob row plays first row,
-      y = prob col plays first col,
-      value = game value (expected payoff for row).
-    If matrix degenerate or numeric issues, falls back to pure best responses.
+    Payoff matrix for row player:
+        [[a, b],
+         [c, d]]
+    Returns (x, y, value) where
+      x = prob row plays first row (so row plays row1 with prob x, row2 with 1-x)
+      y = prob column plays first column
+      value = expected payoff for row under (x,y)
+    This function:
+      - checks for pure/dominance/saddle cases
+      - otherwise returns the analytic mixed strategy that equalizes column's payoffs
     """
-    # Denominator for row mix formula: (a - b - c + d)
-    denom = a - b - c + d
-    if abs(denom) > eps:
-        x = (d - b) / denom
-        # column mix
-        denom_col = a - c - b + d
-        if abs(denom_col) > eps:
-            y = (d - c) / (a - c - b + d)
+    # Check for pure strategy dominance or saddle
+    # If row1 weakly dominates row2: a >= c and b >= d -> row should play row1 pure
+    if a >= c - eps and b >= d - eps:
+        x = 1.0
+        # column best response y: pick column minimizing row payoff
+        # if a <= b then column prefers col1 else col2. We can set y accordingly (but value computed below)
+        y = 0.0 if a <= b else 1.0
+        value = min(a, b)
+        return x, y, value
+
+    # If row2 weakly dominates row1
+    if c >= a - eps and d >= b - eps:
+        x = 0.0
+        y = 0.0 if c <= d else 1.0
+        value = min(c, d)
+        return x, y, value
+
+    # Check for pure saddle point: maximin == minimax
+    maximin = max(min(a, b), min(c, d))
+    minimax = min(max(a, c), max(b, d))
+    if abs(maximin - minimax) <= eps:
+        # pure/mixed yields same; pick the pure row that attains maximin
+        if min(a, b) >= min(c, d):
+            x = 1.0
+            y = 0.0
+            return x, y, min(a, b)
         else:
-            # symmetric fallback
-            y = 0.5
-    else:
-        # degenerate: fallback to uniform/randomization
+            x = 0.0
+            y = 0.0
+            return x, y, min(c, d)
+
+    # General analytic solution:
+    denom = a - b - c + d
+    if abs(denom) < eps:
+        # degenerate; fallback to uniform
         x = 0.5
         y = 0.5
+    else:
+        # Solve x so column is indifferent:
+        # x*(a - c) + (1-x)*(c) ... derive formula gives:
+        # x = (d - c) / (a - b - c + d)
+        x = (d - c) / denom
+        # solve y so row is indifferent:
+        y = (d - b) / denom
 
-    # clamp to [0,1]
-    x = min(max(x, 0.0), 1.0)
-    y = min(max(y, 0.0), 1.0)
+        # clamp
+        x = min(max(x, 0.0), 1.0)
+        y = min(max(y, 0.0), 1.0)
 
-    # compute value: expected payoff when row uses x and col uses y
-    # value = x*y*a + x*(1-y)*b + (1-x)*y*c + (1-x)*(1-y)*d
-    value = x * y * a + x * (1 - y) * b + (1 - x) * y * c + (1 - x) * (1 - y) * d
+    value = x * (y * a + (1 - y) * b) + (1 - x) * (y * c + (1 - y) * d)
     return x, y, value
 
 
