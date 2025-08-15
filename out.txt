@@ -1,1384 +1,1286 @@
-[Roach, Aggro Abyss] : [Roach, Aggro Abyss]
-deck 1: 0.5 0.4
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Roach, Aggro Abyss] : [Roach, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.6 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Roach, Aggro Abyss] : [Roach, Rune]
-deck 1: 0.5 0.7
-deck 2: 0.6 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Roach, Aggro Abyss] : [Roach, Sword]
-deck 1: 0.5 0.55
-deck 2: 0.6 0.4
-deck 1 pick% 0.80 : 0.60
-p1 win: 0.52
-
-[Roach, Aggro Abyss] : [Roach, Haven]
-deck 1: 0.5 0.2
-deck 2: 0.6 0.4
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.40
-
-[Roach, Aggro Abyss] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.6
-deck 2: 0.5 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Roach, Aggro Abyss] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.7
-deck 2: 0.5 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Roach, Aggro Abyss] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.55
-deck 2: 0.5 0.4
-deck 1 pick% 0.40 : 0.60
-p1 win: 0.46
-
-[Roach, Aggro Abyss] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.2
-deck 2: 0.5 0.4
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.40
-
-[Roach, Aggro Abyss] : [Mid Abyss, Rune]
-deck 1: 0.6 0.7
-deck 2: 0.6 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Roach, Aggro Abyss] : [Mid Abyss, Sword]
-deck 1: 0.6 0.55
-deck 2: 0.6 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Aggro Abyss] : [Mid Abyss, Haven]
-deck 1: 0.6 0.2
-deck 2: 0.6 0.4
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.40
-
-[Roach, Aggro Abyss] : [Rune, Sword]
-deck 1: 0.7 0.55
-deck 2: 0.6 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Aggro Abyss] : [Rune, Haven]
-deck 1: 0.7 0.2
-deck 2: 0.6 0.4
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Roach, Aggro Abyss] : [Sword, Haven]
-deck 1: 0.55 0.2
-deck 2: 0.4 0.4
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Roach, Mid Abyss] : [Roach, Aggro Abyss]
-deck 1: 0.5 0.4
-deck 2: 0.4 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.40
-
-[Roach, Mid Abyss] : [Roach, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Mid Abyss] : [Roach, Rune]
-deck 1: 0.5 0.7
-deck 2: 0.4 0.55
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Mid Abyss] : [Roach, Sword]
-deck 1: 0.5 0.55
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Mid Abyss] : [Roach, Haven]
-deck 1: 0.5 0.2
-deck 2: 0.4 0.7
-deck 1 pick% 0.50 : 0.83
-p1 win: 0.45
-
-[Roach, Mid Abyss] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Roach, Mid Abyss] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.7
-deck 2: 0.4 0.55
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Roach, Mid Abyss] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.55
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Roach, Mid Abyss] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.2
-deck 2: 0.4 0.7
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Roach, Mid Abyss] : [Mid Abyss, Rune]
-deck 1: 0.6 0.7
-deck 2: 0.5 0.55
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Roach, Mid Abyss] : [Mid Abyss, Sword]
-deck 1: 0.6 0.55
-deck 2: 0.5 0.5
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Mid Abyss] : [Mid Abyss, Haven]
-deck 1: 0.6 0.2
-deck 2: 0.5 0.7
-deck 1 pick% 0.33 : 0.83
-p1 win: 0.53
-
-[Roach, Mid Abyss] : [Rune, Sword]
-deck 1: 0.7 0.55
-deck 2: 0.55 0.5
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Mid Abyss] : [Rune, Haven]
-deck 1: 0.7 0.2
-deck 2: 0.55 0.7
-deck 1 pick% 0.23 : 0.77
-p1 win: 0.58
-
-[Roach, Mid Abyss] : [Sword, Haven]
-deck 1: 0.55 0.2
-deck 2: 0.5 0.7
-deck 1 pick% 0.36 : 0.91
-p1 win: 0.52
-
-[Roach, Rune] : [Roach, Aggro Abyss]
-deck 1: 0.5 0.4
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.40
-
-[Roach, Rune] : [Roach, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.3 0.45
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Rune] : [Roach, Rune]
-deck 1: 0.5 0.7
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Rune] : [Roach, Sword]
-deck 1: 0.5 0.55
-deck 2: 0.3 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Rune] : [Roach, Haven]
-deck 1: 0.5 0.2
-deck 2: 0.3 0.7
-deck 1 pick% 0.57 : 0.71
-p1 win: 0.41
-
-[Roach, Rune] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.6
-deck 2: 0.4 0.45
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Roach, Rune] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.7
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Roach, Rune] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.55
-deck 2: 0.4 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Roach, Rune] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.2
-deck 2: 0.4 0.7
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Roach, Rune] : [Mid Abyss, Rune]
-deck 1: 0.6 0.7
-deck 2: 0.45 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Roach, Rune] : [Mid Abyss, Sword]
-deck 1: 0.6 0.55
-deck 2: 0.45 0.6
-deck 1 pick% 0.75 : 0.25
-p1 win: 0.56
-
-[Roach, Rune] : [Mid Abyss, Haven]
-deck 1: 0.6 0.2
-deck 2: 0.45 0.7
-deck 1 pick% 0.38 : 0.77
-p1 win: 0.51
-
-[Roach, Rune] : [Rune, Sword]
-deck 1: 0.7 0.55
-deck 2: 0.5 0.6
-deck 1 pick% 0.40 : 0.20
-p1 win: 0.58
-
-[Roach, Rune] : [Rune, Haven]
-deck 1: 0.7 0.2
-deck 2: 0.5 0.7
-deck 1 pick% 0.29 : 0.71
-p1 win: 0.56
-
-[Roach, Rune] : [Sword, Haven]
-deck 1: 0.55 0.2
-deck 2: 0.6 0.7
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Roach, Sword] : [Roach, Aggro Abyss]
-deck 1: 0.5 0.4
-deck 2: 0.45 0.6
-deck 1 pick% 0.60 : 0.80
-p1 win: 0.48
-
-[Roach, Sword] : [Roach, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.45 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Sword] : [Roach, Rune]
-deck 1: 0.5 0.7
-deck 2: 0.45 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Sword] : [Roach, Sword]
-deck 1: 0.5 0.55
-deck 2: 0.45 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Roach, Sword] : [Roach, Haven]
-deck 1: 0.5 0.2
-deck 2: 0.45 0.6
-deck 1 pick% 0.33 : 0.89
-p1 win: 0.47
-
-[Roach, Sword] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.6
-deck 2: 0.6 0.5
-deck 1 pick% 0.33 : 0.33
-p1 win: 0.53
-
-[Roach, Sword] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.7
-deck 2: 0.6 0.4
-deck 1 pick% 0.40 : 0.60
-p1 win: 0.52
-
-[Roach, Sword] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.55
-deck 2: 0.6 0.5
-deck 1 pick% 0.40 : 0.20
-p1 win: 0.52
-
-[Roach, Sword] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.2
-deck 2: 0.6 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Roach, Sword] : [Mid Abyss, Rune]
-deck 1: 0.6 0.7
-deck 2: 0.5 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Roach, Sword] : [Mid Abyss, Sword]
-deck 1: 0.6 0.55
-deck 2: 0.5 0.5
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Sword] : [Mid Abyss, Haven]
-deck 1: 0.6 0.2
-deck 2: 0.5 0.6
-deck 1 pick% 0.20 : 0.80
-p1 win: 0.52
-
-[Roach, Sword] : [Rune, Sword]
-deck 1: 0.7 0.55
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Sword] : [Rune, Haven]
-deck 1: 0.7 0.2
-deck 2: 0.4 0.6
-deck 1 pick% 0.29 : 0.57
-p1 win: 0.49
-
-[Roach, Sword] : [Sword, Haven]
-deck 1: 0.55 0.2
-deck 2: 0.5 0.6
-deck 1 pick% 0.22 : 0.89
-p1 win: 0.51
-
-[Roach, Haven] : [Roach, Aggro Abyss]
-deck 1: 0.5 0.4
-deck 2: 0.8 0.6
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.60
-
-[Roach, Haven] : [Roach, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.8 0.3
-deck 1 pick% 0.83 : 0.50
-p1 win: 0.55
-
-[Roach, Haven] : [Roach, Rune]
-deck 1: 0.5 0.7
-deck 2: 0.8 0.3
-deck 1 pick% 0.71 : 0.57
-p1 win: 0.59
-
-[Roach, Haven] : [Roach, Sword]
-deck 1: 0.5 0.55
-deck 2: 0.8 0.4
-deck 1 pick% 0.89 : 0.33
-p1 win: 0.53
-
-[Roach, Haven] : [Roach, Haven]
-deck 1: 0.5 0.2
-deck 2: 0.8 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Roach, Haven] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.6
-deck 2: 0.6 0.3
-deck 1 pick% 0.60 : 0.60
-p1 win: 0.48
-
-[Roach, Haven] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.7
-deck 2: 0.6 0.3
-deck 1 pick% 0.50 : 0.67
-p1 win: 0.50
-
-[Roach, Haven] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.55
-deck 2: 0.6 0.4
-deck 1 pick% 0.57 : 0.43
-p1 win: 0.49
-
-[Roach, Haven] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.2
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Roach, Haven] : [Mid Abyss, Rune]
-deck 1: 0.6 0.7
-deck 2: 0.3 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Roach, Haven] : [Mid Abyss, Sword]
-deck 1: 0.6 0.55
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Haven] : [Mid Abyss, Haven]
-deck 1: 0.6 0.2
-deck 2: 0.3 0.5
-deck 1 pick% 0.33 : 0.50
-p1 win: 0.40
-
-[Roach, Haven] : [Rune, Sword]
-deck 1: 0.7 0.55
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.55
-
-[Roach, Haven] : [Rune, Haven]
-deck 1: 0.7 0.2
-deck 2: 0.3 0.5
-deck 1 pick% 0.29 : 0.43
-p1 win: 0.41
-
-[Roach, Haven] : [Sword, Haven]
-deck 1: 0.55 0.2
-deck 2: 0.4 0.5
-deck 1 pick% 0.22 : 0.67
-p1 win: 0.43
-
-[Aggro Abyss, Mid Abyss] : [Roach, Aggro Abyss]
-deck 1: 0.6 0.5
-deck 2: 0.4 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.50
-
-[Aggro Abyss, Mid Abyss] : [Roach, Mid Abyss]
-deck 1: 0.6 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Mid Abyss] : [Roach, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.4 0.55
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Mid Abyss] : [Roach, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.4 0.5
-deck 1 pick% 0.33 : 0.33
-p1 win: 0.47
-
-[Aggro Abyss, Mid Abyss] : [Roach, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.4 0.7
-deck 1 pick% 0.60 : 0.60
-p1 win: 0.52
-
-[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Rune]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.55
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Sword]
-deck 1: 0.5 0.4
-deck 2: 0.4 0.5
-deck 1 pick% 0.50 : 0.50
-p1 win: 0.45
-
-[Aggro Abyss, Mid Abyss] : [Aggro Abyss, Haven]
-deck 1: 0.5 0.4
-deck 2: 0.4 0.7
-deck 1 pick% 0.75 : 0.75
-p1 win: 0.47
-
-[Aggro Abyss, Mid Abyss] : [Mid Abyss, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.5 0.55
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Mid Abyss] : [Mid Abyss, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.5 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Mid Abyss] : [Mid Abyss, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.5 0.7
-deck 1 pick% 0.50 : 0.75
-p1 win: 0.55
-
-[Aggro Abyss, Mid Abyss] : [Rune, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.55 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Mid Abyss] : [Rune, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.55 0.7
-deck 1 pick% 0.43 : 0.86
-p1 win: 0.57
-
-[Aggro Abyss, Mid Abyss] : [Sword, Haven]
-deck 1: 0.4 0.4
-deck 2: 0.5 0.7
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Rune] : [Roach, Aggro Abyss]
-deck 1: 0.6 0.5
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.50
-
-[Aggro Abyss, Rune] : [Roach, Mid Abyss]
-deck 1: 0.6 0.6
-deck 2: 0.3 0.45
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Rune] : [Roach, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Rune] : [Roach, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.3 0.6
-deck 1 pick% 0.60 : 0.40
-p1 win: 0.48
-
-[Aggro Abyss, Rune] : [Roach, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.3 0.7
-deck 1 pick% 0.67 : 0.50
-p1 win: 0.50
-
-[Aggro Abyss, Rune] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.45
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Rune] : [Aggro Abyss, Rune]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Rune] : [Aggro Abyss, Sword]
-deck 1: 0.5 0.4
-deck 2: 0.4 0.6
-deck 1 pick% 0.67 : 0.67
-p1 win: 0.47
-
-[Aggro Abyss, Rune] : [Aggro Abyss, Haven]
-deck 1: 0.5 0.4
-deck 2: 0.4 0.7
-deck 1 pick% 0.75 : 0.75
-p1 win: 0.47
-
-[Aggro Abyss, Rune] : [Mid Abyss, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.45 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Rune] : [Mid Abyss, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.45 0.6
-deck 1 pick% 0.43 : 0.57
-p1 win: 0.51
-
-[Aggro Abyss, Rune] : [Mid Abyss, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.45 0.7
-deck 1 pick% 0.56 : 0.67
-p1 win: 0.53
-
-[Aggro Abyss, Rune] : [Rune, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.5 0.6
-deck 1 pick% 0.33 : 0.67
-p1 win: 0.53
-
-[Aggro Abyss, Rune] : [Rune, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.5 0.7
-deck 1 pick% 0.50 : 0.75
-p1 win: 0.55
-
-[Aggro Abyss, Rune] : [Sword, Haven]
-deck 1: 0.4 0.4
-deck 2: 0.6 0.7
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Sword] : [Roach, Aggro Abyss]
-deck 1: 0.6 0.5
-deck 2: 0.45 0.6
-deck 1 pick% 0.60 : 0.40
-p1 win: 0.54
-
-[Aggro Abyss, Sword] : [Roach, Mid Abyss]
-deck 1: 0.6 0.6
-deck 2: 0.45 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Sword] : [Roach, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.45 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Sword] : [Roach, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.45 0.5
-deck 1 pick% 0.20 : 0.40
-p1 win: 0.48
-
-[Aggro Abyss, Sword] : [Roach, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.45 0.6
-deck 1 pick% 0.43 : 0.57
-p1 win: 0.51
-
-[Aggro Abyss, Sword] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.6 0.5
-deck 1 pick% 0.50 : 0.50
-p1 win: 0.55
-
-[Aggro Abyss, Sword] : [Aggro Abyss, Rune]
-deck 1: 0.5 0.6
-deck 2: 0.6 0.4
-deck 1 pick% 0.67 : 0.67
-p1 win: 0.53
-
-[Aggro Abyss, Sword] : [Aggro Abyss, Sword]
-deck 1: 0.5 0.4
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Aggro Abyss, Sword] : [Aggro Abyss, Haven]
-deck 1: 0.5 0.4
-deck 2: 0.6 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Sword] : [Mid Abyss, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.5 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Sword] : [Mid Abyss, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.5 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Sword] : [Mid Abyss, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.5 0.6
-deck 1 pick% 0.33 : 0.67
-p1 win: 0.53
-
-[Aggro Abyss, Sword] : [Rune, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.4 0.5
-deck 1 pick% 0.33 : 0.33
-p1 win: 0.47
-
-[Aggro Abyss, Sword] : [Rune, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.4 0.6
-deck 1 pick% 0.50 : 0.50
-p1 win: 0.50
-
-[Aggro Abyss, Sword] : [Sword, Haven]
-deck 1: 0.4 0.4
-deck 2: 0.5 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Aggro Abyss, Haven] : [Roach, Aggro Abyss]
-deck 1: 0.6 0.5
-deck 2: 0.8 0.6
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.60
-
-[Aggro Abyss, Haven] : [Roach, Mid Abyss]
-deck 1: 0.6 0.6
-deck 2: 0.8 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Haven] : [Roach, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.8 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Haven] : [Roach, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.8 0.4
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.40
-
-[Aggro Abyss, Haven] : [Roach, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.8 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Aggro Abyss, Haven] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.5 0.6
-deck 2: 0.6 0.3
-deck 1 pick% 0.75 : 0.75
-p1 win: 0.53
-
-[Aggro Abyss, Haven] : [Aggro Abyss, Rune]
-deck 1: 0.5 0.6
-deck 2: 0.6 0.3
-deck 1 pick% 0.75 : 0.75
-p1 win: 0.53
-
-[Aggro Abyss, Haven] : [Aggro Abyss, Sword]
-deck 1: 0.5 0.4
-deck 2: 0.6 0.4
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.40
-
-[Aggro Abyss, Haven] : [Aggro Abyss, Haven]
-deck 1: 0.5 0.4
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Aggro Abyss, Haven] : [Mid Abyss, Rune]
-deck 1: 0.6 0.6
-deck 2: 0.3 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Aggro Abyss, Haven] : [Mid Abyss, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.40
-
-[Aggro Abyss, Haven] : [Mid Abyss, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.3 0.5
-deck 1 pick% 0.50 : 0.25
-p1 win: 0.45
-
-[Aggro Abyss, Haven] : [Rune, Sword]
-deck 1: 0.6 0.4
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.40
-
-[Aggro Abyss, Haven] : [Rune, Haven]
-deck 1: 0.6 0.4
-deck 2: 0.3 0.5
-deck 1 pick% 0.50 : 0.25
-p1 win: 0.45
-
-[Aggro Abyss, Haven] : [Sword, Haven]
-deck 1: 0.4 0.4
-deck 2: 0.4 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Roach, Aggro Abyss]
-deck 1: 0.4 0.4
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Roach, Mid Abyss]
-deck 1: 0.4 0.5
-deck 2: 0.3 0.45
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Roach, Rune]
-deck 1: 0.4 0.55
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Roach, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.3 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Roach, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.3 0.7
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.5
-deck 2: 0.4 0.45
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.55
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.4 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.4 0.7
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Mid Abyss, Rune] : [Mid Abyss, Rune]
-deck 1: 0.5 0.55
-deck 2: 0.45 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Rune] : [Mid Abyss, Sword]
-deck 1: 0.5 0.5
-deck 2: 0.45 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Rune] : [Mid Abyss, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.45 0.7
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Rune] : [Rune, Sword]
-deck 1: 0.55 0.5
-deck 2: 0.5 0.6
-deck 1 pick% 0.67 : 0.67
-p1 win: 0.53
-
-[Mid Abyss, Rune] : [Rune, Haven]
-deck 1: 0.55 0.7
-deck 2: 0.5 0.7
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.55
-
-[Mid Abyss, Rune] : [Sword, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.6 0.7
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Mid Abyss, Sword] : [Roach, Aggro Abyss]
-deck 1: 0.4 0.4
-deck 2: 0.45 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Mid Abyss, Sword] : [Roach, Mid Abyss]
-deck 1: 0.4 0.5
-deck 2: 0.45 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Mid Abyss, Sword] : [Roach, Rune]
-deck 1: 0.4 0.55
-deck 2: 0.45 0.4
-deck 1 pick% 0.25 : 0.75
-p1 win: 0.44
-
-[Mid Abyss, Sword] : [Roach, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.45 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Mid Abyss, Sword] : [Roach, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.45 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Mid Abyss, Sword] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.5
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Mid Abyss, Sword] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.55
-deck 2: 0.6 0.4
-deck 1 pick% 0.57 : 0.43
-p1 win: 0.49
-
-[Mid Abyss, Sword] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Mid Abyss, Sword] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.6 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Mid Abyss, Sword] : [Mid Abyss, Rune]
-deck 1: 0.5 0.55
-deck 2: 0.5 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Sword] : [Mid Abyss, Sword]
-deck 1: 0.5 0.5
-deck 2: 0.5 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Sword] : [Mid Abyss, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.5 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Sword] : [Rune, Sword]
-deck 1: 0.55 0.5
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.50
-
-[Mid Abyss, Sword] : [Rune, Haven]
-deck 1: 0.55 0.7
-deck 2: 0.4 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.55
-
-[Mid Abyss, Sword] : [Sword, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.5 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Haven] : [Roach, Aggro Abyss]
-deck 1: 0.4 0.4
-deck 2: 0.8 0.6
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.60
-
-[Mid Abyss, Haven] : [Roach, Mid Abyss]
-deck 1: 0.4 0.5
-deck 2: 0.8 0.3
-deck 1 pick% 0.83 : 0.33
-p1 win: 0.47
-
-[Mid Abyss, Haven] : [Roach, Rune]
-deck 1: 0.4 0.55
-deck 2: 0.8 0.3
-deck 1 pick% 0.77 : 0.38
-p1 win: 0.49
-
-[Mid Abyss, Haven] : [Roach, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.8 0.4
-deck 1 pick% 0.80 : 0.20
-p1 win: 0.48
-
-[Mid Abyss, Haven] : [Roach, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.8 0.5
-deck 1 pick% 0.50 : 0.33
-p1 win: 0.60
-
-[Mid Abyss, Haven] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.5
-deck 2: 0.6 0.3
-deck 1 pick% 0.75 : 0.50
-p1 win: 0.45
-
-[Mid Abyss, Haven] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.55
-deck 2: 0.6 0.3
-deck 1 pick% 0.67 : 0.56
-p1 win: 0.47
-
-[Mid Abyss, Haven] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.6 0.4
-deck 1 pick% 0.67 : 0.33
-p1 win: 0.47
-
-[Mid Abyss, Haven] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.6 0.5
-deck 1 pick% 0.25 : 0.50
-p1 win: 0.55
-
-[Mid Abyss, Haven] : [Mid Abyss, Rune]
-deck 1: 0.5 0.55
-deck 2: 0.3 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Haven] : [Mid Abyss, Sword]
-deck 1: 0.5 0.5
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Haven] : [Mid Abyss, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Mid Abyss, Haven] : [Rune, Sword]
-deck 1: 0.55 0.5
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.50
-
-[Mid Abyss, Haven] : [Rune, Haven]
-deck 1: 0.55 0.7
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.55
-
-[Mid Abyss, Haven] : [Sword, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Rune, Sword] : [Roach, Aggro Abyss]
-deck 1: 0.3 0.4
-deck 2: 0.45 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Rune, Sword] : [Roach, Mid Abyss]
-deck 1: 0.3 0.45
-deck 2: 0.45 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Rune, Sword] : [Roach, Rune]
-deck 1: 0.3 0.5
-deck 2: 0.45 0.4
-deck 1 pick% 0.20 : 0.40
-p1 win: 0.42
-
-[Rune, Sword] : [Roach, Sword]
-deck 1: 0.3 0.6
-deck 2: 0.45 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Rune, Sword] : [Roach, Haven]
-deck 1: 0.3 0.7
-deck 2: 0.45 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.45
-
-[Rune, Sword] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.45
-deck 2: 0.6 0.5
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.50
-
-[Rune, Sword] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.5
-deck 2: 0.6 0.4
-deck 1 pick% 0.67 : 0.33
-p1 win: 0.47
-
-[Rune, Sword] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.6
-deck 2: 0.6 0.5
-deck 1 pick% 0.33 : 0.33
-p1 win: 0.53
-
-[Rune, Sword] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.6 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.60
-
-[Rune, Sword] : [Mid Abyss, Rune]
-deck 1: 0.45 0.5
-deck 2: 0.5 0.4
-deck 1 pick% 0.67 : 0.67
-p1 win: 0.47
-
-[Rune, Sword] : [Mid Abyss, Sword]
-deck 1: 0.45 0.6
-deck 2: 0.5 0.5
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Rune, Sword] : [Mid Abyss, Haven]
-deck 1: 0.45 0.7
-deck 2: 0.5 0.6
-deck 1 pick% 0.00 : 0.00
-p1 win: 0.50
-
-[Rune, Sword] : [Rune, Sword]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Rune, Sword] : [Rune, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.4 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Rune, Sword] : [Sword, Haven]
-deck 1: 0.6 0.7
-deck 2: 0.5 0.6
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Rune, Haven] : [Roach, Aggro Abyss]
-deck 1: 0.3 0.4
-deck 2: 0.8 0.6
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.60
-
-[Rune, Haven] : [Roach, Mid Abyss]
-deck 1: 0.3 0.45
-deck 2: 0.8 0.3
-deck 1 pick% 0.77 : 0.23
-p1 win: 0.42
-
-[Rune, Haven] : [Roach, Rune]
-deck 1: 0.3 0.5
-deck 2: 0.8 0.3
-deck 1 pick% 0.71 : 0.29
-p1 win: 0.44
-
-[Rune, Haven] : [Roach, Sword]
-deck 1: 0.3 0.6
-deck 2: 0.8 0.4
-deck 1 pick% 0.57 : 0.29
-p1 win: 0.51
-
-[Rune, Haven] : [Roach, Haven]
-deck 1: 0.3 0.7
-deck 2: 0.8 0.5
-deck 1 pick% 0.43 : 0.29
-p1 win: 0.59
-
-[Rune, Haven] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.4 0.45
-deck 2: 0.6 0.3
-deck 1 pick% 0.86 : 0.43
-p1 win: 0.43
-
-[Rune, Haven] : [Aggro Abyss, Rune]
-deck 1: 0.4 0.5
-deck 2: 0.6 0.3
-deck 1 pick% 0.75 : 0.50
-p1 win: 0.45
-
-[Rune, Haven] : [Aggro Abyss, Sword]
-deck 1: 0.4 0.6
-deck 2: 0.6 0.4
-deck 1 pick% 0.50 : 0.50
-p1 win: 0.50
-
-[Rune, Haven] : [Aggro Abyss, Haven]
-deck 1: 0.4 0.7
-deck 2: 0.6 0.5
-deck 1 pick% 0.25 : 0.50
-p1 win: 0.55
-
-[Rune, Haven] : [Mid Abyss, Rune]
-deck 1: 0.45 0.5
-deck 2: 0.3 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.45
-
-[Rune, Haven] : [Mid Abyss, Sword]
-deck 1: 0.45 0.6
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.45
-
-[Rune, Haven] : [Mid Abyss, Haven]
-deck 1: 0.45 0.7
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.45
-
-[Rune, Haven] : [Rune, Sword]
-deck 1: 0.5 0.6
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Rune, Haven] : [Rune, Haven]
-deck 1: 0.5 0.7
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Rune, Haven] : [Sword, Haven]
-deck 1: 0.6 0.7
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Sword, Haven] : [Roach, Aggro Abyss]
-deck 1: 0.45 0.6
-deck 2: 0.8 0.6
-deck 1 pick% 0.00 : 1.00
-p1 win: 0.60
-
-[Sword, Haven] : [Roach, Mid Abyss]
-deck 1: 0.45 0.5
-deck 2: 0.8 0.3
-deck 1 pick% 0.91 : 0.36
-p1 win: 0.48
-
-[Sword, Haven] : [Roach, Rune]
-deck 1: 0.45 0.4
-deck 2: 0.8 0.3
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Sword, Haven] : [Roach, Sword]
-deck 1: 0.45 0.5
-deck 2: 0.8 0.4
-deck 1 pick% 0.89 : 0.22
-p1 win: 0.49
-
-[Sword, Haven] : [Roach, Haven]
-deck 1: 0.45 0.6
-deck 2: 0.8 0.5
-deck 1 pick% 0.67 : 0.22
-p1 win: 0.57
-
-[Sword, Haven] : [Aggro Abyss, Mid Abyss]
-deck 1: 0.6 0.5
-deck 2: 0.6 0.3
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.50
-
-[Sword, Haven] : [Aggro Abyss, Rune]
-deck 1: 0.6 0.4
-deck 2: 0.6 0.3
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.40
-
-[Sword, Haven] : [Aggro Abyss, Sword]
-deck 1: 0.6 0.5
-deck 2: 0.6 0.4
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.50
-
-[Sword, Haven] : [Aggro Abyss, Haven]
-deck 1: 0.6 0.6
-deck 2: 0.6 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.60
-
-[Sword, Haven] : [Mid Abyss, Rune]
-deck 1: 0.5 0.4
-deck 2: 0.3 0.3
-deck 1 pick% 1.00 : 1.00
-p1 win: 0.40
-
-[Sword, Haven] : [Mid Abyss, Sword]
-deck 1: 0.5 0.5
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Sword, Haven] : [Mid Abyss, Haven]
-deck 1: 0.5 0.6
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-[Sword, Haven] : [Rune, Sword]
-deck 1: 0.4 0.5
-deck 2: 0.3 0.4
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Sword, Haven] : [Rune, Haven]
-deck 1: 0.4 0.6
-deck 2: 0.3 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.40
-
-[Sword, Haven] : [Sword, Haven]
-deck 1: 0.5 0.6
-deck 2: 0.4 0.5
-deck 1 pick% 1.00 : 0.00
-p1 win: 0.50
-
-=== Open Decklist (internal 2x2 Nash picks) ===
-Equilibrium expected winrate (first-player): 0.5000
-
-Lineup distribution (probabilities):
-  Roach + Mid Abyss : 0.0025
-  Roach + Sword : 0.5751
-  Roach + Haven : 0.0137
-  Aggro Abyss + Rune : 0.1836
-  Rune + Haven : 0.2251
-
-Per-deck fraction of players bringing each deck (sum to 1 across decks):
-  Roach           : 0.2956
-  Aggro Abyss     : 0.0918
-  Mid Abyss       : 0.0012
-  Rune            : 0.2044
-  Sword           : 0.2876
-  Haven           : 0.1194
-
-
-=== Closed Decklist (internal uniform 50/50) ===
-Equilibrium expected winrate (first-player): 0.5000
-
-Lineup distribution (probabilities):
-  Roach + Sword : 0.2727
-  Roach + Haven : 0.2727
-  Mid Abyss + Sword : 0.4545
-
-Per-deck fraction of players bringing each deck (sum to 1 across decks):
-  Roach           : 0.2727
-  Aggro Abyss     : 0.0000
-  Mid Abyss       : 0.2273
-  Rune            : 0.0000
-  Sword           : 0.3636
-  Haven           : 0.1364
+Successfully loaded winrates.csv
+
+Winrate Matrix (row beats column):
+             Roach  Aggro Abyss  Mid Abyss  Rune  Sword  Haven
+Roach         0.50          0.4       0.60  0.70   0.55    0.2
+Aggro Abyss   0.60          0.5       0.60  0.60   0.40    0.4
+Mid Abyss     0.40          0.4       0.50  0.55   0.50    0.7
+Rune          0.30          0.4       0.45  0.50   0.60    0.7
+Sword         0.45          0.6       0.50  0.40   0.50    0.6
+Haven         0.80          0.6       0.30  0.30   0.40    0.5
+
+Found 6 decks: ['Roach', 'Aggro Abyss', 'Mid Abyss', 'Rune', 'Sword', 'Haven']
+Generated 15 possible lineups:
+
+  1. Roach+Aggro Abyss
+  2. Roach+Mid Abyss
+  3. Roach+Rune
+  4. Roach+Sword
+  5. Roach+Haven
+  6. Aggro Abyss+Mid Abyss
+  7. Aggro Abyss+Rune
+  8. Aggro Abyss+Sword
+  9. Aggro Abyss+Haven
+  10. Mid Abyss+Rune
+  11. Mid Abyss+Sword
+  12. Mid Abyss+Haven
+  13. Rune+Sword
+  14. Rune+Haven
+  15. Sword+Haven
+
+================================================================================
+SOLVING INNER GAMES (2x2 Matrices)
+================================================================================
+
+Matchup: Roach+Aggro Abyss vs Roach+Aggro Abyss
+Payoff Matrix (P1 perspective):
+                Roach    Aggro Abyss
+  Roach         0.50       0.40   
+  Aggro Abyss    0.60       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Roach 0.0%, Aggro Abyss 100.0%
+  Expected value: 0.500
+
+Matchup: Roach+Aggro Abyss vs Roach+Mid Abyss
+Payoff Matrix (P1 perspective):
+                Roach    Mid Abyss 
+  Roach         0.50       0.60   
+  Aggro Abyss    0.60       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Roach 100.0%, Mid Abyss 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Aggro Abyss vs Roach+Rune
+Payoff Matrix (P1 perspective):
+                Roach       Rune   
+  Roach         0.50       0.70   
+  Aggro Abyss    0.60       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Roach 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Aggro Abyss vs Roach+Sword
+Payoff Matrix (P1 perspective):
+                Roach      Sword   
+  Roach         0.50       0.55   
+  Aggro Abyss    0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 80.0%, Aggro Abyss 20.0%
+  P2 plays: Roach 60.0%, Sword 40.0%
+  Expected value: 0.520
+
+Matchup: Roach+Aggro Abyss vs Roach+Haven
+Payoff Matrix (P1 perspective):
+                Roach      Haven   
+  Roach         0.50       0.20   
+  Aggro Abyss    0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Roach 0.0%, Haven 100.0%
+  Expected value: 0.400
+
+Matchup: Roach+Aggro Abyss vs Aggro Abyss+Mid Abyss
+Payoff Matrix (P1 perspective):
+              Aggro Abyss Mid Abyss 
+  Roach         0.40       0.60   
+  Aggro Abyss    0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Aggro Abyss vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Roach         0.40       0.70   
+  Aggro Abyss    0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Aggro Abyss 100.0%, Rune 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Aggro Abyss vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Roach         0.40       0.55   
+  Aggro Abyss    0.50       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 40.0%, Aggro Abyss 60.0%
+  P2 plays: Aggro Abyss 60.0%, Sword 40.0%
+  Expected value: 0.460
+
+Matchup: Roach+Aggro Abyss vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Roach         0.40       0.20   
+  Aggro Abyss    0.50       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Aggro Abyss 0.0%, Haven 100.0%
+  Expected value: 0.400
+
+Matchup: Roach+Aggro Abyss vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Roach         0.60       0.70   
+  Aggro Abyss    0.60       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Aggro Abyss 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Aggro Abyss vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Roach         0.60       0.55   
+  Aggro Abyss    0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Aggro Abyss 0.0%
+  P2 plays: Mid Abyss 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Aggro Abyss vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Roach         0.60       0.20   
+  Aggro Abyss    0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Mid Abyss 0.0%, Haven 100.0%
+  Expected value: 0.400
+
+Matchup: Roach+Aggro Abyss vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Roach         0.70       0.55   
+  Aggro Abyss    0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Aggro Abyss 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Aggro Abyss vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Roach         0.70       0.20   
+  Aggro Abyss    0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Rune 0.0%, Haven 100.0%
+  Expected value: 0.400
+
+Matchup: Roach+Aggro Abyss vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Roach         0.55       0.20   
+  Aggro Abyss    0.40       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Aggro Abyss 100.0%
+  P2 plays: Sword 57.1%, Haven 42.9%
+  Expected value: 0.400
+
+Matchup: Roach+Mid Abyss vs Roach+Mid Abyss
+Payoff Matrix (P1 perspective):
+                Roach    Mid Abyss 
+  Roach         0.50       0.60   
+  Mid Abyss     0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Roach 100.0%, Mid Abyss 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Mid Abyss vs Roach+Rune
+Payoff Matrix (P1 perspective):
+                Roach       Rune   
+  Roach         0.50       0.70   
+  Mid Abyss     0.40       0.55   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Roach 100.0%, Rune 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Mid Abyss vs Roach+Sword
+Payoff Matrix (P1 perspective):
+                Roach      Sword   
+  Roach         0.50       0.55   
+  Mid Abyss     0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Roach 100.0%, Sword 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Mid Abyss vs Roach+Haven
+Payoff Matrix (P1 perspective):
+                Roach      Haven   
+  Roach         0.50       0.20   
+  Mid Abyss     0.40       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 50.0%, Mid Abyss 50.0%
+  P2 plays: Roach 83.3%, Haven 16.7%
+  Expected value: 0.450
+
+Matchup: Roach+Mid Abyss vs Aggro Abyss+Mid Abyss
+Payoff Matrix (P1 perspective):
+              Aggro Abyss Mid Abyss 
+  Roach         0.40       0.60   
+  Mid Abyss     0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Mid Abyss vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Roach         0.40       0.70   
+  Mid Abyss     0.40       0.55   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Aggro Abyss 100.0%, Rune 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Mid Abyss vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Roach         0.40       0.55   
+  Mid Abyss     0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Aggro Abyss 100.0%, Sword 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Mid Abyss vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Roach         0.40       0.20   
+  Mid Abyss     0.40       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 60.0%, Mid Abyss 40.0%
+  P2 plays: Aggro Abyss 100.0%, Haven 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Mid Abyss vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Roach         0.60       0.70   
+  Mid Abyss     0.50       0.55   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Mid Abyss vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Roach         0.60       0.55   
+  Mid Abyss     0.50       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Mid Abyss 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Mid Abyss vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Roach         0.60       0.20   
+  Mid Abyss     0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 33.3%, Mid Abyss 66.7%
+  P2 plays: Mid Abyss 83.3%, Haven 16.7%
+  Expected value: 0.533
+
+Matchup: Roach+Mid Abyss vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Roach         0.70       0.55   
+  Mid Abyss     0.55       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Mid Abyss 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Mid Abyss vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Roach         0.70       0.20   
+  Mid Abyss     0.55       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 23.1%, Mid Abyss 76.9%
+  P2 plays: Rune 76.9%, Haven 23.1%
+  Expected value: 0.585
+
+Matchup: Roach+Mid Abyss vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Roach         0.55       0.20   
+  Mid Abyss     0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 36.4%, Mid Abyss 63.6%
+  P2 plays: Sword 90.9%, Haven 9.1%
+  Expected value: 0.518
+
+Matchup: Roach+Rune vs Roach+Rune
+Payoff Matrix (P1 perspective):
+                Roach       Rune   
+  Roach         0.50       0.70   
+  Rune          0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Rune 0.0%
+  P2 plays: Roach 100.0%, Rune 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Rune vs Roach+Sword
+Payoff Matrix (P1 perspective):
+                Roach      Sword   
+  Roach         0.50       0.55   
+  Rune          0.30       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Rune 0.0%
+  P2 plays: Roach 100.0%, Sword 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Rune vs Roach+Haven
+Payoff Matrix (P1 perspective):
+                Roach      Haven   
+  Roach         0.50       0.20   
+  Rune          0.30       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 57.1%, Rune 42.9%
+  P2 plays: Roach 71.4%, Haven 28.6%
+  Expected value: 0.414
+
+Matchup: Roach+Rune vs Aggro Abyss+Mid Abyss
+Payoff Matrix (P1 perspective):
+              Aggro Abyss Mid Abyss 
+  Roach         0.40       0.60   
+  Rune          0.40       0.45   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Rune 0.0%
+  P2 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Rune vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Roach         0.40       0.70   
+  Rune          0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Rune 0.0%
+  P2 plays: Aggro Abyss 100.0%, Rune 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Rune vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Roach         0.40       0.55   
+  Rune          0.40       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Rune 0.0%
+  P2 plays: Aggro Abyss 100.0%, Sword 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Rune vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Roach         0.40       0.20   
+  Rune          0.40       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 60.0%, Rune 40.0%
+  P2 plays: Aggro Abyss 100.0%, Haven 0.0%
+  Expected value: 0.400
+
+Matchup: Roach+Rune vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Roach         0.60       0.70   
+  Rune          0.45       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Rune 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Rune vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Roach         0.60       0.55   
+  Rune          0.45       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 75.0%, Rune 25.0%
+  P2 plays: Mid Abyss 25.0%, Sword 75.0%
+  Expected value: 0.562
+
+Matchup: Roach+Rune vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Roach         0.60       0.20   
+  Rune          0.45       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 38.5%, Rune 61.5%
+  P2 plays: Mid Abyss 76.9%, Haven 23.1%
+  Expected value: 0.508
+
+Matchup: Roach+Rune vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Roach         0.70       0.55   
+  Rune          0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 40.0%, Rune 60.0%
+  P2 plays: Rune 20.0%, Sword 80.0%
+  Expected value: 0.580
+
+Matchup: Roach+Rune vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Roach         0.70       0.20   
+  Rune          0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 28.6%, Rune 71.4%
+  P2 plays: Rune 71.4%, Haven 28.6%
+  Expected value: 0.557
+
+Matchup: Roach+Rune vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Roach         0.55       0.20   
+  Rune          0.60       0.70   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Rune 100.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Sword vs Roach+Sword
+Payoff Matrix (P1 perspective):
+                Roach      Sword   
+  Roach         0.50       0.55   
+  Sword         0.45       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Sword 0.0%
+  P2 plays: Roach 100.0%, Sword 0.0%
+  Expected value: 0.500
+
+Matchup: Roach+Sword vs Roach+Haven
+Payoff Matrix (P1 perspective):
+                Roach      Haven   
+  Roach         0.50       0.20   
+  Sword         0.45       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 33.3%, Sword 66.7%
+  P2 plays: Roach 88.9%, Haven 11.1%
+  Expected value: 0.467
+
+Matchup: Roach+Sword vs Aggro Abyss+Mid Abyss
+Payoff Matrix (P1 perspective):
+              Aggro Abyss Mid Abyss 
+  Roach         0.40       0.60   
+  Sword         0.60       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 33.3%, Sword 66.7%
+  P2 plays: Aggro Abyss 33.3%, Mid Abyss 66.7%
+  Expected value: 0.533
+
+Matchup: Roach+Sword vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Roach         0.40       0.70   
+  Sword         0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 40.0%, Sword 60.0%
+  P2 plays: Aggro Abyss 60.0%, Rune 40.0%
+  Expected value: 0.520
+
+Matchup: Roach+Sword vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Roach         0.40       0.55   
+  Sword         0.60       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 40.0%, Sword 60.0%
+  P2 plays: Aggro Abyss 20.0%, Sword 80.0%
+  Expected value: 0.520
+
+Matchup: Roach+Sword vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Roach         0.40       0.20   
+  Sword         0.60       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Sword 100.0%
+  P2 plays: Aggro Abyss 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Sword vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Roach         0.60       0.70   
+  Sword         0.50       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Sword 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Sword vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Roach         0.60       0.55   
+  Sword         0.50       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Sword 0.0%
+  P2 plays: Mid Abyss 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Sword vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Roach         0.60       0.20   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 20.0%, Sword 80.0%
+  P2 plays: Mid Abyss 80.0%, Haven 20.0%
+  Expected value: 0.520
+
+Matchup: Roach+Sword vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Roach         0.70       0.55   
+  Sword         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Sword 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Sword vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Roach         0.70       0.20   
+  Sword         0.40       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 28.6%, Sword 71.4%
+  P2 plays: Rune 57.1%, Haven 42.9%
+  Expected value: 0.486
+
+Matchup: Roach+Sword vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Roach         0.55       0.20   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Roach 22.2%, Sword 77.8%
+  P2 plays: Sword 88.9%, Haven 11.1%
+  Expected value: 0.511
+
+Matchup: Roach+Haven vs Roach+Haven
+Payoff Matrix (P1 perspective):
+                Roach      Haven   
+  Roach         0.50       0.20   
+  Haven         0.80       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Haven 100.0%
+  P2 plays: Roach 0.0%, Haven 100.0%
+  Expected value: 0.500
+
+Matchup: Roach+Haven vs Aggro Abyss+Mid Abyss
+Payoff Matrix (P1 perspective):
+              Aggro Abyss Mid Abyss 
+  Roach         0.40       0.60   
+  Haven         0.60       0.30   
+Nash Equilibrium:
+  P1 plays: Roach 60.0%, Haven 40.0%
+  P2 plays: Aggro Abyss 60.0%, Mid Abyss 40.0%
+  Expected value: 0.480
+
+Matchup: Roach+Haven vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Roach         0.40       0.70   
+  Haven         0.60       0.30   
+Nash Equilibrium:
+  P1 plays: Roach 50.0%, Haven 50.0%
+  P2 plays: Aggro Abyss 66.7%, Rune 33.3%
+  Expected value: 0.500
+
+Matchup: Roach+Haven vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Roach         0.40       0.55   
+  Haven         0.60       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 57.1%, Haven 42.9%
+  P2 plays: Aggro Abyss 42.9%, Sword 57.1%
+  Expected value: 0.486
+
+Matchup: Roach+Haven vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Roach         0.40       0.20   
+  Haven         0.60       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 0.0%, Haven 100.0%
+  P2 plays: Aggro Abyss 0.0%, Haven 100.0%
+  Expected value: 0.500
+
+Matchup: Roach+Haven vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Roach         0.60       0.70   
+  Haven         0.30       0.30   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Haven 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Roach+Haven vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Roach         0.60       0.55   
+  Haven         0.30       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Haven 0.0%
+  P2 plays: Mid Abyss 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Haven vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Roach         0.60       0.20   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 33.3%, Haven 66.7%
+  P2 plays: Mid Abyss 50.0%, Haven 50.0%
+  Expected value: 0.400
+
+Matchup: Roach+Haven vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Roach         0.70       0.55   
+  Haven         0.30       0.40   
+Nash Equilibrium:
+  P1 plays: Roach 100.0%, Haven 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.550
+
+Matchup: Roach+Haven vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Roach         0.70       0.20   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 28.6%, Haven 71.4%
+  P2 plays: Rune 42.9%, Haven 57.1%
+  Expected value: 0.414
+
+Matchup: Roach+Haven vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Roach         0.55       0.20   
+  Haven         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Roach 22.2%, Haven 77.8%
+  P2 plays: Sword 66.7%, Haven 33.3%
+  Expected value: 0.433
+
+Matchup: Aggro Abyss+Mid Abyss vs Aggro Abyss+Mid Abyss
+Payoff Matrix (P1 perspective):
+              Aggro Abyss Mid Abyss 
+  Aggro Abyss    0.50       0.60   
+  Mid Abyss     0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  P2 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Mid Abyss vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Aggro Abyss    0.50       0.60   
+  Mid Abyss     0.40       0.55   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  P2 plays: Aggro Abyss 100.0%, Rune 0.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Mid Abyss vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Aggro Abyss    0.50       0.40   
+  Mid Abyss     0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 50.0%, Mid Abyss 50.0%
+  P2 plays: Aggro Abyss 50.0%, Sword 50.0%
+  Expected value: 0.450
+
+Matchup: Aggro Abyss+Mid Abyss vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Aggro Abyss    0.50       0.40   
+  Mid Abyss     0.40       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 75.0%, Mid Abyss 25.0%
+  P2 plays: Aggro Abyss 75.0%, Haven 25.0%
+  Expected value: 0.475
+
+Matchup: Aggro Abyss+Mid Abyss vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Aggro Abyss    0.60       0.60   
+  Mid Abyss     0.50       0.55   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Mid Abyss 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Aggro Abyss+Mid Abyss vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Aggro Abyss    0.60       0.40   
+  Mid Abyss     0.50       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Mid Abyss 100.0%
+  P2 plays: Mid Abyss 50.0%, Sword 50.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Mid Abyss vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Aggro Abyss    0.60       0.40   
+  Mid Abyss     0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 50.0%, Mid Abyss 50.0%
+  P2 plays: Mid Abyss 75.0%, Haven 25.0%
+  Expected value: 0.550
+
+Matchup: Aggro Abyss+Mid Abyss vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Aggro Abyss    0.60       0.40   
+  Mid Abyss     0.55       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Mid Abyss 100.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Mid Abyss vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Aggro Abyss    0.60       0.40   
+  Mid Abyss     0.55       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 42.9%, Mid Abyss 57.1%
+  P2 plays: Rune 85.7%, Haven 14.3%
+  Expected value: 0.571
+
+Matchup: Aggro Abyss+Mid Abyss vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Aggro Abyss    0.40       0.40   
+  Mid Abyss     0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Mid Abyss 100.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Rune vs Aggro Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Aggro Abyss    Rune   
+  Aggro Abyss    0.50       0.60   
+  Rune          0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Rune 0.0%
+  P2 plays: Aggro Abyss 100.0%, Rune 0.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Rune vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Aggro Abyss    0.50       0.40   
+  Rune          0.40       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 66.7%, Rune 33.3%
+  P2 plays: Aggro Abyss 66.7%, Sword 33.3%
+  Expected value: 0.467
+
+Matchup: Aggro Abyss+Rune vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Aggro Abyss    0.50       0.40   
+  Rune          0.40       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 75.0%, Rune 25.0%
+  P2 plays: Aggro Abyss 75.0%, Haven 25.0%
+  Expected value: 0.475
+
+Matchup: Aggro Abyss+Rune vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Aggro Abyss    0.60       0.60   
+  Rune          0.45       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Rune 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Aggro Abyss+Rune vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Aggro Abyss    0.60       0.40   
+  Rune          0.45       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 42.9%, Rune 57.1%
+  P2 plays: Mid Abyss 57.1%, Sword 42.9%
+  Expected value: 0.514
+
+Matchup: Aggro Abyss+Rune vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Aggro Abyss    0.60       0.40   
+  Rune          0.45       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 55.6%, Rune 44.4%
+  P2 plays: Mid Abyss 66.7%, Haven 33.3%
+  Expected value: 0.533
+
+Matchup: Aggro Abyss+Rune vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Aggro Abyss    0.60       0.40   
+  Rune          0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 33.3%, Rune 66.7%
+  P2 plays: Rune 66.7%, Sword 33.3%
+  Expected value: 0.533
+
+Matchup: Aggro Abyss+Rune vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Aggro Abyss    0.60       0.40   
+  Rune          0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 50.0%, Rune 50.0%
+  P2 plays: Rune 75.0%, Haven 25.0%
+  Expected value: 0.550
+
+Matchup: Aggro Abyss+Rune vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Aggro Abyss    0.40       0.40   
+  Rune          0.60       0.70   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Rune 100.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Aggro Abyss+Sword vs Aggro Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Sword   
+  Aggro Abyss    0.50       0.40   
+  Sword         0.60       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Sword 100.0%
+  P2 plays: Aggro Abyss 0.0%, Sword 100.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Sword vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Aggro Abyss    0.50       0.40   
+  Sword         0.60       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Sword 100.0%
+  P2 plays: Aggro Abyss 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Aggro Abyss+Sword vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Aggro Abyss    0.60       0.60   
+  Sword         0.50       0.40   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Sword 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Aggro Abyss+Sword vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Aggro Abyss    0.60       0.40   
+  Sword         0.50       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Sword 100.0%
+  P2 plays: Mid Abyss 50.0%, Sword 50.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Sword vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Aggro Abyss    0.60       0.40   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 33.3%, Sword 66.7%
+  P2 plays: Mid Abyss 66.7%, Haven 33.3%
+  Expected value: 0.533
+
+Matchup: Aggro Abyss+Sword vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Aggro Abyss    0.60       0.40   
+  Sword         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 33.3%, Sword 66.7%
+  P2 plays: Rune 33.3%, Sword 66.7%
+  Expected value: 0.467
+
+Matchup: Aggro Abyss+Sword vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Aggro Abyss    0.60       0.40   
+  Sword         0.40       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 50.0%, Sword 50.0%
+  P2 plays: Rune 50.0%, Haven 50.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Sword vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Aggro Abyss    0.40       0.40   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Sword 100.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Haven vs Aggro Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Aggro Abyss   Haven   
+  Aggro Abyss    0.50       0.40   
+  Haven         0.60       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 0.0%, Haven 100.0%
+  P2 plays: Aggro Abyss 0.0%, Haven 100.0%
+  Expected value: 0.500
+
+Matchup: Aggro Abyss+Haven vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Aggro Abyss    0.60       0.60   
+  Haven         0.30       0.30   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Haven 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.600
+
+Matchup: Aggro Abyss+Haven vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Aggro Abyss    0.60       0.40   
+  Haven         0.30       0.40   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Haven 0.0%
+  P2 plays: Mid Abyss 0.0%, Sword 100.0%
+  Expected value: 0.400
+
+Matchup: Aggro Abyss+Haven vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Aggro Abyss    0.60       0.40   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 50.0%, Haven 50.0%
+  P2 plays: Mid Abyss 25.0%, Haven 75.0%
+  Expected value: 0.450
+
+Matchup: Aggro Abyss+Haven vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Aggro Abyss    0.60       0.40   
+  Haven         0.30       0.40   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Haven 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.400
+
+Matchup: Aggro Abyss+Haven vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Aggro Abyss    0.60       0.40   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 50.0%, Haven 50.0%
+  P2 plays: Rune 25.0%, Haven 75.0%
+  Expected value: 0.450
+
+Matchup: Aggro Abyss+Haven vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Aggro Abyss    0.40       0.40   
+  Haven         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Aggro Abyss 100.0%, Haven 0.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.400
+
+Matchup: Mid Abyss+Rune vs Mid Abyss+Rune
+Payoff Matrix (P1 perspective):
+              Mid Abyss     Rune   
+  Mid Abyss     0.50       0.55   
+  Rune          0.45       0.50   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Rune 0.0%
+  P2 plays: Mid Abyss 100.0%, Rune 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Rune vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Mid Abyss     0.50       0.50   
+  Rune          0.45       0.60   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Rune 0.0%
+  P2 plays: Mid Abyss 100.0%, Sword 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Rune vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Mid Abyss     0.50       0.70   
+  Rune          0.45       0.70   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Rune 0.0%
+  P2 plays: Mid Abyss 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Rune vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Mid Abyss     0.55       0.50   
+  Rune          0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 66.7%, Rune 33.3%
+  P2 plays: Rune 66.7%, Sword 33.3%
+  Expected value: 0.533
+
+Matchup: Mid Abyss+Rune vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Mid Abyss     0.55       0.70   
+  Rune          0.50       0.70   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Rune 0.0%
+  P2 plays: Rune 100.0%, Haven 0.0%
+  Expected value: 0.550
+
+Matchup: Mid Abyss+Rune vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Mid Abyss     0.50       0.70   
+  Rune          0.60       0.70   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 0.0%, Rune 100.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Mid Abyss+Sword vs Mid Abyss+Sword
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Sword   
+  Mid Abyss     0.50       0.50   
+  Sword         0.50       0.50   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Sword 0.0%
+  P2 plays: Mid Abyss 100.0%, Sword 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Sword vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Mid Abyss     0.50       0.70   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Sword 0.0%
+  P2 plays: Mid Abyss 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Sword vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Mid Abyss     0.55       0.50   
+  Sword         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Sword 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Sword vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Mid Abyss     0.55       0.70   
+  Sword         0.40       0.60   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Sword 0.0%
+  P2 plays: Rune 100.0%, Haven 0.0%
+  Expected value: 0.550
+
+Matchup: Mid Abyss+Sword vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Mid Abyss     0.50       0.70   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Sword 0.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Haven vs Mid Abyss+Haven
+Payoff Matrix (P1 perspective):
+              Mid Abyss    Haven   
+  Mid Abyss     0.50       0.70   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Haven 0.0%
+  P2 plays: Mid Abyss 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Haven vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Mid Abyss     0.55       0.50   
+  Haven         0.30       0.40   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Haven 0.0%
+  P2 plays: Rune 0.0%, Sword 100.0%
+  Expected value: 0.500
+
+Matchup: Mid Abyss+Haven vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Mid Abyss     0.55       0.70   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Haven 0.0%
+  P2 plays: Rune 100.0%, Haven 0.0%
+  Expected value: 0.550
+
+Matchup: Mid Abyss+Haven vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Mid Abyss     0.50       0.70   
+  Haven         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Mid Abyss 100.0%, Haven 0.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Rune+Sword vs Rune+Sword
+Payoff Matrix (P1 perspective):
+                 Rune      Sword   
+  Rune          0.50       0.60   
+  Sword         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Rune 100.0%, Sword 0.0%
+  P2 plays: Rune 100.0%, Sword 0.0%
+  Expected value: 0.500
+
+Matchup: Rune+Sword vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Rune          0.50       0.70   
+  Sword         0.40       0.60   
+Nash Equilibrium:
+  P1 plays: Rune 100.0%, Sword 0.0%
+  P2 plays: Rune 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Rune+Sword vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Rune          0.60       0.70   
+  Sword         0.50       0.60   
+Nash Equilibrium:
+  P1 plays: Rune 100.0%, Sword 0.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Rune+Haven vs Rune+Haven
+Payoff Matrix (P1 perspective):
+                 Rune      Haven   
+  Rune          0.50       0.70   
+  Haven         0.30       0.50   
+Nash Equilibrium:
+  P1 plays: Rune 100.0%, Haven 0.0%
+  P2 plays: Rune 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+Matchup: Rune+Haven vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Rune          0.60       0.70   
+  Haven         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Rune 100.0%, Haven 0.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.600
+
+Matchup: Sword+Haven vs Sword+Haven
+Payoff Matrix (P1 perspective):
+                Sword      Haven   
+  Sword         0.50       0.60   
+  Haven         0.40       0.50   
+Nash Equilibrium:
+  P1 plays: Sword 100.0%, Haven 0.0%
+  P2 plays: Sword 100.0%, Haven 0.0%
+  Expected value: 0.500
+
+================================================================================
+OUTER GAME PAYOFF MATRIX
+================================================================================
+
+                        Roach+Aggro Abyss  ...  Sword+Haven
+Roach+Aggro Abyss                   0.50  ...        0.400
+Roach+Mid Abyss                     0.40  ...        0.518
+Roach+Rune                          0.40  ...        0.600
+Roach+Sword                         0.48  ...        0.511
+Roach+Haven                         0.60  ...        0.433
+Aggro Abyss+Mid Abyss               0.50  ...        0.500
+Aggro Abyss+Rune                    0.50  ...        0.600
+Aggro Abyss+Sword                   0.54  ...        0.500
+Aggro Abyss+Haven                   0.60  ...        0.400
+Mid Abyss+Rune                      0.40  ...        0.600
+Mid Abyss+Sword                     0.45  ...        0.500
+Mid Abyss+Haven                     0.60  ...        0.500
+Rune+Sword                          0.45  ...        0.600
+Rune+Haven                          0.60  ...        0.600
+Sword+Haven                         0.60  ...        0.500
+
+[15 rows x 15 columns]
+
+================================================================================
+SOLVING OUTER NASH EQUILIBRIUM
+================================================================================
+
+Optimal Lineup Distribution (Nash Equilibrium):
+--------------------------------------------------
+
+Player 1 Optimal Strategy:
+  Roach+Sword           57.5%
+  Rune+Haven            22.5%
+  Aggro Abyss+Rune      18.4%
+  Roach+Haven            1.4%
+  Roach+Mid Abyss        0.2%
+
+Game Value (Expected winrate for P1): 0.500
+
+Verification:
+  Sum of probabilities: 1.000000
+  Min expected value for P1: 0.434
+  Max expected value for P2: 0.434
+
+================================================================================
+SUMMARY
+================================================================================
+
+In a Nash equilibrium for this 2-deck best-of-1 format:
+- Expected winrate at equilibrium: 50.0%
+- Number of viable lineups: 5
+- The game is perfectly balanced (as expected with symmetric winrates)
